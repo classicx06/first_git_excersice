@@ -1,6 +1,7 @@
 <?php
-    echo "Hola amigo"
-    $numberOne = 1;
+
+    echo "Hola amigo";
+    $numberOne = "x";
 
 
 ?>
